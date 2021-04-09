@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: #09003d;
+  color: #fff;
+  padding: 100px 0;
+  text-align: center;
+}
+.bgImgCenter{
+  background-image: url('./asian-food-background-various-cooking-ingredients-rustic-background-top-view-banner-concept-chinese-thai-66582124.jpg');
+  background-repeat: no-repeat;
+  background-position: center; 
+  position: relative;
+}
+
+.brand-icon {
+    font-size: 100px;
+}
